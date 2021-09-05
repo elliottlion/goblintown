@@ -1,0 +1,47 @@
+body {
+  background-color: green;
+}
+.head {
+  margin-top: 0;
+  width: 100%;
+  background-color: pink;
+  color: green;
+  height: 30px;
+}
+.goblintown{
+  text-align: center;
+}
+.stats {
+  background-color: teal;
+  font-weight: bold;
+  color: white;
+}
+.money{
+  float: left;
+  margin-top: 0;
+}
+.energy {
+  text-align: center;
+  margin-top: 0;
+  float: none;
+}
+.main {
+  margin-top: auto;
+  height: auto;
+  margin-left: 120px;
+  margin-right: 120px;
+  background-color: #8a7434;
+  color: silver;
+  border-radius: 25px;
+
+}
+.downtown {
+  background-color: #8a7434;
+  color: silver;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+h1 {
+  text-align: center;
+}
